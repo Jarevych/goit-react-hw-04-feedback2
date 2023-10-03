@@ -1,4 +1,3 @@
-import "../App.css";
 import FeedbackOptions from "./FeedbackOptions";
 import Notification from "./Notification";
 import Statistic from "./Statistic";
